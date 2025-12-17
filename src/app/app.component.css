@@ -1,0 +1,16 @@
+.status-circle{
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    background-color: red;
+    display: inline-block;
+    margin-right: 5px;
+}
+.done{
+    background-color: green;
+}
+
+.str{
+    border: 2px solid blue;
+    
+}
